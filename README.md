@@ -1,6 +1,6 @@
 <div align="center">
     
-![Discord Status](https://discord.c99.nl/widget/theme-4/491970909176070164.png)
+![Discord Status](https://discord.c99.nl/widget/theme-4/444906687812599819.png)
 
 </div>
 
