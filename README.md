@@ -13,9 +13,6 @@
 
 ---
 
--   :pencil2: Python / C++ / Java / Assembly / C / SQL
--   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm) / [opera](https://www.opera.com/) 
-
 <div align="center">  
     
   ![Snake Animation](https://github.com/LaranjoTomas/LaranjoTomas/blob/output/github-snake-dark.svg)
