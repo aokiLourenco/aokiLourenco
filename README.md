@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aoki 👋</h1>
+<h1 align="center">Hi, I'm Aoki</h1>
 
 <p align="center">
   Developer from Portugal 🇵🇹 · studying at the <b>Universidade de Aveiro</b>
